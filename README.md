@@ -1,3 +1,7 @@
+![Profile views](https://gpvc.arturio.dev/TechPhil)
+
+---
+
 ### Hi there 👋
 #### I'm Phil
 
