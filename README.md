@@ -22,7 +22,7 @@
 
 ---
 
-![TechPhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techphil)
+![TechPhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techphil&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techphil)
 
 ---
