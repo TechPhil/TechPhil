@@ -18,7 +18,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#18](https://github.com//jamesgeorge007/github-activity-readme/pull/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 2. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+3. 🗣 Commented on [#37](https://github.com//ESX-Org/esx_dmvschool/issues/37) in [ESX-Org/esx_dmvschool](https://github.com//ESX-Org/esx_dmvschool)
 
 ---
 
