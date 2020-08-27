@@ -16,11 +16,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com//jamesgeorge007/github-activity-readme/issues/19) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 💪 Opened PR [#19](https://github.com//jamesgeorge007/github-activity-readme/pull/19) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#1](https://github.com//TechPhil/github-activity-readme/pull/1) in [TechPhil/github-activity-readme](https://github.com//TechPhil/github-activity-readme)
-4. 💪 Opened PR [#1](https://github.com//TechPhil/github-activity-readme/pull/1) in [TechPhil/github-activity-readme](https://github.com//TechPhil/github-activity-readme)
-5. 🗣 Commented on [#18](https://github.com//jamesgeorge007/github-activity-readme/issues/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#1](https://github.com//TechPhil/CustomURIs/pull/1) in [TechPhil/CustomURIs](https://github.com//TechPhil/CustomURIs)
+2. 💪 Opened PR [#1](https://github.com//TechPhil/CustomURIs/pull/1) in [TechPhil/CustomURIs](https://github.com//TechPhil/CustomURIs)
+3. 🗣 Commented on [#19](https://github.com//jamesgeorge007/github-activity-readme/issues/19) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 💪 Opened PR [#19](https://github.com//jamesgeorge007/github-activity-readme/pull/19) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🎉 Merged PR [#1](https://github.com//TechPhil/github-activity-readme/pull/1) in [TechPhil/github-activity-readme](https://github.com//TechPhil/github-activity-readme)
 <!--END_SECTION:activity-->
 1. 💪 Opened PR [#18](https://github.com//jamesgeorge007/github-activity-readme/pull/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 2. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
