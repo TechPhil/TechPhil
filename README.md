@@ -22,9 +22,6 @@
 4. 💪 Opened PR [#19](https://github.com//jamesgeorge007/github-activity-readme/pull/19) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 5. 🎉 Merged PR [#1](https://github.com//TechPhil/github-activity-readme/pull/1) in [TechPhil/github-activity-readme](https://github.com//TechPhil/github-activity-readme)
 <!--END_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com//jamesgeorge007/github-activity-readme/pull/18) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#37](https://github.com//ESX-Org/esx_dmvschool/issues/37) in [ESX-Org/esx_dmvschool](https://github.com//ESX-Org/esx_dmvschool)
 
 ---
 
