@@ -7,9 +7,9 @@
 
 ---
 
-- 🔭 I’m currently working on The Simulator Radio FiveM Server
-- 🌱 I’m currently learning how the hell lua works
-- 📫 How to reach me: Discord: SR_TechPhil#0001
+- 🔭 I’m currently doing things
+- 🌱 I don't know what they are
+- 📫 How to reach me: Discord: Phil_At_SR#0001
 - ⚡ Fun fact: I rarely know what the hell I'm doing
 
 ---
