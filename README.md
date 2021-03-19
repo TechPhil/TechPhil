@@ -16,10 +16,10 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com//AzuraCast/AzuraRelay/issues/17) in [AzuraCast/AzuraRelay](https://github.com//AzuraCast/AzuraRelay)
-2. 🗣 Commented on [#15](https://github.com//AzuraCast/AzuraRelay/issues/15) in [AzuraCast/AzuraRelay](https://github.com//AzuraCast/AzuraRelay)
-3. 🎉 Merged PR [#1](https://github.com//TechPhil/CustomURIs/pull/1) in [TechPhil/CustomURIs](https://github.com//TechPhil/CustomURIs)
-4. 💪 Opened PR [#1](https://github.com//TechPhil/CustomURIs/pull/1) in [TechPhil/CustomURIs](https://github.com//TechPhil/CustomURIs)
+1. ❗️ Closed issue [#17](https://github.com//AzuraCast/AzuraRelay/issues/17) in [AzuraCast/AzuraRelay](https://github.com//AzuraCast/AzuraRelay)
+2. 🗣 Commented on [#17](https://github.com//AzuraCast/AzuraRelay/issues/17) in [AzuraCast/AzuraRelay](https://github.com//AzuraCast/AzuraRelay)
+3. ❗️ Opened issue [#17](https://github.com//AzuraCast/AzuraRelay/issues/17) in [AzuraCast/AzuraRelay](https://github.com//AzuraCast/AzuraRelay)
+4. 🗣 Commented on [#15](https://github.com//AzuraCast/AzuraRelay/issues/15) in [AzuraCast/AzuraRelay](https://github.com//AzuraCast/AzuraRelay)
 5. 🗣 Commented on [#19](https://github.com//jamesgeorge007/github-activity-readme/issues/19) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
