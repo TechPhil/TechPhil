@@ -16,11 +16,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-2. 🗣 Commented on [#32](https://github.com//radiopanel/radiopanel/issues/32) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+1. 🗣 Commented on [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+2. ❗️ Opened issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
 3. 🗣 Commented on [#32](https://github.com//radiopanel/radiopanel/issues/32) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
 4. 🗣 Commented on [#32](https://github.com//radiopanel/radiopanel/issues/32) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-5. ❗️ Opened issue [#33](https://github.com//radiopanel/radiopanel/issues/33) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+5. 🗣 Commented on [#32](https://github.com//radiopanel/radiopanel/issues/32) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
 <!--END_SECTION:activity-->
 
 ---
