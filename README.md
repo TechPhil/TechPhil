@@ -16,11 +16,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com//fmmixup/Website/pull/15) in [fmmixup/Website](https://github.com//fmmixup/Website)
-2. ❗️ Closed issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-3. 🗣 Commented on [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-4. 🗣 Commented on [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-5. ❗️ Opened issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+1. 🎉 Merged PR [#13](https://github.com//fmmixup/Website/pull/13) in [fmmixup/Website](https://github.com//fmmixup/Website)
+2. 🎉 Merged PR [#16](https://github.com//fmmixup/Website/pull/16) in [fmmixup/Website](https://github.com//fmmixup/Website)
+3. 💪 Opened PR [#16](https://github.com//fmmixup/Website/pull/16) in [fmmixup/Website](https://github.com//fmmixup/Website)
+4. ❌ Closed PR [#15](https://github.com//fmmixup/Website/pull/15) in [fmmixup/Website](https://github.com//fmmixup/Website)
+5. ❗️ Closed issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
 <!--END_SECTION:activity-->
 
 ---
