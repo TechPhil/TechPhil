@@ -16,11 +16,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com//fmmixup/Website/pull/17) in [fmmixup/Website](https://github.com//fmmixup/Website)
-2. 💪 Opened PR [#17](https://github.com//fmmixup/Website/pull/17) in [fmmixup/Website](https://github.com//fmmixup/Website)
-3. 🎉 Merged PR [#13](https://github.com//fmmixup/Website/pull/13) in [fmmixup/Website](https://github.com//fmmixup/Website)
-4. 🎉 Merged PR [#16](https://github.com//fmmixup/Website/pull/16) in [fmmixup/Website](https://github.com//fmmixup/Website)
-5. 💪 Opened PR [#16](https://github.com//fmmixup/Website/pull/16) in [fmmixup/Website](https://github.com//fmmixup/Website)
+1. 🎉 Merged PR [#18](https://github.com//fmmixup/Website/pull/18) in [fmmixup/Website](https://github.com//fmmixup/Website)
+2. 💪 Opened PR [#18](https://github.com//fmmixup/Website/pull/18) in [fmmixup/Website](https://github.com//fmmixup/Website)
+3. 🎉 Merged PR [#17](https://github.com//fmmixup/Website/pull/17) in [fmmixup/Website](https://github.com//fmmixup/Website)
+4. 💪 Opened PR [#17](https://github.com//fmmixup/Website/pull/17) in [fmmixup/Website](https://github.com//fmmixup/Website)
+5. 🎉 Merged PR [#13](https://github.com//fmmixup/Website/pull/13) in [fmmixup/Website](https://github.com//fmmixup/Website)
 <!--END_SECTION:activity-->
 
 ---
