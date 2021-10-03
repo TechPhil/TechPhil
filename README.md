@@ -16,10 +16,10 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com//fmmixup/Website/pull/18) in [fmmixup/Website](https://github.com//fmmixup/Website)
-2. 💪 Opened PR [#18](https://github.com//fmmixup/Website/pull/18) in [fmmixup/Website](https://github.com//fmmixup/Website)
-3. 🎉 Merged PR [#17](https://github.com//fmmixup/Website/pull/17) in [fmmixup/Website](https://github.com//fmmixup/Website)
-4. 💪 Opened PR [#17](https://github.com//fmmixup/Website/pull/17) in [fmmixup/Website](https://github.com//fmmixup/Website)
+1. ❗️ Closed issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+2. 🗣 Commented on [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+3. 🗣 Commented on [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+4. ❗️ Opened issue [#47](https://github.com//radiopanel/radiopanel/issues/47) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
 5. 🎉 Merged PR [#13](https://github.com//fmmixup/Website/pull/13) in [fmmixup/Website](https://github.com//fmmixup/Website)
 <!--END_SECTION:activity-->
 
