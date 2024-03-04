@@ -16,11 +16,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16118](https://github.com//microsoftgraph/microsoft-graph-docs/issues/16118) in [microsoftgraph/microsoft-graph-docs](https://github.com//microsoftgraph/microsoft-graph-docs)
-2. 🗣 Commented on [#16118](https://github.com//microsoftgraph/microsoft-graph-docs/issues/16118) in [microsoftgraph/microsoft-graph-docs](https://github.com//microsoftgraph/microsoft-graph-docs)
-3. 🗣 Commented on [#58](https://github.com//radiopanel/radiopanel/issues/58) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-4. 🗣 Commented on [#59](https://github.com//radiopanel/radiopanel/issues/59) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
-5. 🗣 Commented on [#59](https://github.com//radiopanel/radiopanel/issues/59) in [radiopanel/radiopanel](https://github.com//radiopanel/radiopanel)
+1. ❗️ Opened issue [#4547](https://github.com//louislam/uptime-kuma/issues/4547) in [louislam/uptime-kuma](https://github.com//louislam/uptime-kuma)
+2. 🗣 Commented on [#16](https://github.com//West-Midlands-Media-Group/upptime/issues/16) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+3. ❗️ Closed issue [#16](https://github.com//West-Midlands-Media-Group/upptime/issues/16) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+4. ❗️ Closed issue [#17](https://github.com//West-Midlands-Media-Group/upptime/issues/17) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+5. 🗣 Commented on [#17](https://github.com//West-Midlands-Media-Group/upptime/issues/17) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
 <!--END_SECTION:activity-->
 
 ---
