@@ -12,11 +12,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com//West-Midlands-Media-Group/upptime/issues/26) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-2. ❗️ Closed issue [#26](https://github.com//West-Midlands-Media-Group/upptime/issues/26) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-3. ❗️ Opened issue [#26](https://github.com//West-Midlands-Media-Group/upptime/issues/26) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-4. 💪 Opened PR [#4834](https://github.com//web-scrobbler/web-scrobbler/pull/4834) in [web-scrobbler/web-scrobbler](https://github.com//web-scrobbler/web-scrobbler)
-5. ❗️ Closed issue [#22](https://github.com//West-Midlands-Media-Group/upptime/issues/22) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+1. 🗣 Commented on [#4834](https://github.com//web-scrobbler/web-scrobbler/issues/4834) in [web-scrobbler/web-scrobbler](https://github.com//web-scrobbler/web-scrobbler)
+2. 🗣 Commented on [#26](https://github.com//West-Midlands-Media-Group/upptime/issues/26) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+3. ❗️ Closed issue [#26](https://github.com//West-Midlands-Media-Group/upptime/issues/26) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+4. ❗️ Opened issue [#26](https://github.com//West-Midlands-Media-Group/upptime/issues/26) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+5. 💪 Opened PR [#4834](https://github.com//web-scrobbler/web-scrobbler/pull/4834) in [web-scrobbler/web-scrobbler](https://github.com//web-scrobbler/web-scrobbler)
 <!--END_SECTION:activity-->
 
 ---
