@@ -12,11 +12,11 @@
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com//West-Midlands-Media-Group/upptime/issues/42) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-2. 🗣 Commented on [#41](https://github.com//West-Midlands-Media-Group/upptime/issues/41) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-3. ❗️ Closed issue [#41](https://github.com//West-Midlands-Media-Group/upptime/issues/41) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-4. ❗️ Opened issue [#41](https://github.com//West-Midlands-Media-Group/upptime/issues/41) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
-5. 🗣 Commented on [#40](https://github.com//West-Midlands-Media-Group/upptime/issues/40) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+1. 🗣 Commented on [#42](https://github.com//West-Midlands-Media-Group/upptime/issues/42) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+2. ❗️ Closed issue [#42](https://github.com//West-Midlands-Media-Group/upptime/issues/42) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+3. ❗️ Opened issue [#42](https://github.com//West-Midlands-Media-Group/upptime/issues/42) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+4. 🗣 Commented on [#41](https://github.com//West-Midlands-Media-Group/upptime/issues/41) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
+5. ❗️ Closed issue [#41](https://github.com//West-Midlands-Media-Group/upptime/issues/41) in [West-Midlands-Media-Group/upptime](https://github.com//West-Midlands-Media-Group/upptime)
 <!--END_SECTION:activity-->
 
 ---
